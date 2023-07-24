@@ -110,6 +110,9 @@ h1 {
     grid-column: 5/8;
     grid-row: 2/3;
 }
+.resumeButton {
+
+}
 /* This is design for My Skills section */
 .mySkills {
     justify-content: center;
@@ -523,6 +526,7 @@ h2 {
     padding-top: 10px;
 }
 
+
 *,  *::before, *::after {     margin: 0;     padding: 0;     box-sizing: border-box; }
 
 @media only screen and (max-width: 600px) {
@@ -570,4 +574,4 @@ h2 {
             grid-template-columns: 100%;
             grid-template-rows: 25% 45% 5% 25%;
         }
-    }
+    }}
